@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /focus-fuel/
+Disallow: /scripts/
+Disallow: /tools/
+
+Sitemap: https://mcgirlswrestling.com/sitemap.xml
